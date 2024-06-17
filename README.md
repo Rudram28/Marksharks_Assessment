@@ -19,6 +19,10 @@ Implement a user registration and user details fetch endpoints for a RESTful API
 
 ## Run Locally
 
+**Set mysql username & passsword in application.properties**
+```bash
+Marksharks_Assessment-main/src/main/resources/application.properties
+```
 Click on code
 
 Download the Zip file and extract it 
